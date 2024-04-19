@@ -1,4 +1,4 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-us'
 title = 'The Shropshire DM'
-theme = 'Hermit-V2'
+theme = 'hermit-v2'
