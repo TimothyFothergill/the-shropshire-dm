@@ -2,3 +2,10 @@ baseURL = 'https://example.org/'
 languageCode = 'en-us'
 title = 'The Shropshire DM'
 theme = 'hermit-v2'
+
+[menu]
+
+    [[menu.main]]
+        name = "About"
+        url = "about-me/"
+        weight = 10
